@@ -15,3 +15,10 @@ The core steps involved in this project are:
 2.  **Data Preprocessing:** Preparing the data for the classification model. This may involve handling missing values (if any) and encoding categorical features (like 'Gender') into a numerical format that the model can understand. Scaling numerical features ('Age', 'Tenure') might also be necessary.
 3.  **Model Selection and Training:** Choosing an appropriate classification algorithm (e.g., Logistic Regression, Support Vector Machines, Random Forest, etc.) and training it on the prepared data.
 4.  **Prediction:** Using the trained model to predict the likelihood of churn for new or unseen customer data.
+
+## 🔧 Tools & Technologies Used:
+
+* 🐍 **Python:** The primary programming language used for data analysis, preprocessing, and model building.
+* 📈 **Matplotlib & Seaborn:** Python libraries used for creating insightful visualizations and exploring data patterns.
+* 🧮 **pandas:** A powerful Python library for data manipulation and analysis, providing data structures like DataFrames.
+* 📊 **Data preprocessing techniques:** Methods applied to clean and transform the raw data into a suitable format for the classification model. This includes techniques like handling missing values, encoding categorical variables, and scaling numerical features.
