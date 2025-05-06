@@ -1,5 +1,5 @@
 # Churn-App-Prediction
-This project focuses on predicting customer churn using a classification model. 
+This project is part of my Data Mining training at ITI, where the goal of my work is to predict customer churn using a classification model.
 By analyzing customer data, we aim to identify factors that contribute to churn and build a model capable of predicting which customers are likely to leave.
 
 ## Project Overview
